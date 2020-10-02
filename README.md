@@ -2,7 +2,7 @@
 
 [Bruce Ediger](mailto:bediger@stratigery.com)
 
-This web page implements some of the various formal systems in Raymond
+This repo contains a web page that implements some of the various formal systems in Raymond
 Smullyan's neglected classic,
 [The Lady or The Tiger](http://www.amazon.com/The-Lady-Tiger-Other-Puzzles/dp/048647027X/)
 
