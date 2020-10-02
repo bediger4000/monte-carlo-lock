@@ -64,6 +64,11 @@ Smullyan describes McCulloch's New Machine in Chapter 13, _The Key_
 
 ## Monte Carlo Lock
 
+After spending many chapters on "logic machines",
+Smullyan suddenly switches up the syntax.
+The Monte Carlo Lock is clearly a formal system akin to the "logic machines",
+but the syntax differs, including quoting differently.
+
 ### Martin Farkus notes on the lock
 
 * _Property Q_: For any combination **x**, 
@@ -104,7 +109,7 @@ that Smullyan means when he writes
 
 * (A)  [2x2] = x
 * (B)  [1x] = 2[x]
-* (C)  [5x] = <[x]> where <x> means reverse of x
+* (C)  [5x] = <[x]> where &lt;x&gt; means reverse of x
 * (D)  [9x] = [x][x]
 
 <!--[More classes of combinations](http://www.100balls.com/Primrose%20Lodge/Playtime/puzzle_32_solution.htm)
