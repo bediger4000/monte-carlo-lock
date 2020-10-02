@@ -87,6 +87,9 @@ whether the input combination unlocks or jams the lock or is neutral.
 The Monte Carlo Lock must be
 an intricate piece of machinery indeed, if it actually does all of _Property Sp_.
 
+That's OK, as _Property Sp_ exits only to motivate Inspector Craig,
+the hero of the story.
+
 ## Marnix Klooster's Mysterious Monte Carlo Lock
 
 Marnix Klooster wrote a very nice
@@ -98,13 +101,14 @@ so I include a version of the Monte Carlo lock emulator in Klooster's notation.
 Klooster uses <kbd>[3x] = y2y</kbd> to mean the same thing
 that Smullyan means when he writes
 "if x produces y, 3x produces the associate of y".
-		<li>(A)  [2x2] = x</li>
-		<li>(B)  [1x] = 2[x]</li>
-		<li>(C)  [5x] = &lt;[x]&gt;&nbsp;&nbsp;<em>&lt;x&gt; means reverse of x</em></li>
-		<li>(D)  [9x] = [x][x]</li>
 
-[More classes of combinations](http://www.100balls.com/Primrose%20Lodge/Playtime/puzzle_32_solution.htm)
-that unlock the lock.
+* (A)  [2x2] = x
+* (B)  [1x] = 2[x]
+* (C)  [5x] = <[x]> where <x> means reverse of x
+* (D)  [9x] = [x][x]
+
+<!--[More classes of combinations](http://www.100balls.com/Primrose%20Lodge/Playtime/puzzle_32_solution.htm)
+that unlock the lock. -->
 
 ## Programming Notes
 
@@ -129,9 +133,15 @@ recursive programs,
 with a stop condition on a quoted sub-string.
 All operations (repeat, reverse, associate)
 happen on the way back "up" the recursion.
-Does this mean that a <a href="/srf.html">Simple Recursive Function</a>
+Does this mean that a [Simple Recursive Function](https://github.com/bediger4000/simple-recursive-functions)
 (in the mathematical logic sense) could compute the output of the
 various "locks" or "machines" on this page?
+
+Also, is there another, more common name, for the formal
+systems that Smullyan describes as "logical machines" in
+_The Lady or The Tiger_?
+They remind me of [concatenative combinators](https://suhr.github.io/papers/calg.html)
+but the correspondence isn't exact.
 
 Mathoverflow features
 [a technical explanation](http://mathoverflow.net/questions/13972/shortest-key-for-the-monte-carlo-lock-of-smullyan)
