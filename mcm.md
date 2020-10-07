@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML Basic 1.0//EN" "file:///home/bediger/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
-<head>
-<meta name="google-site-verification" content="ixC4wtdetOlWNosRSwl6CFgRutGwfbq_9r9z534uRkY" />
-<title>The Mystery of the Monte Carlo Lock</title>
+# The Mystery of the Monte Carlo Lock
+
 <script language="javascript" type="text/javascript">//<![CDATA[
 function machine1(x) {
 	var y = 'x';
@@ -552,6 +548,6 @@ of solutions to the Monte Carlo Lock.
 </tr>
 </table>
 <br/>
-<p><em>I renounce all rights - do with this as you will.</em></p>
-</body>
-</html>
+<p>
+
+_I renounce all rights - do with this as you will._
