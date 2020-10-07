@@ -6,12 +6,6 @@ This repo contains a web page that implements some of the various formal systems
 Smullyan's neglected classic,
 [The Lady or The Tiger](http://www.amazon.com/The-Lady-Tiger-Other-Puzzles/dp/048647027X/)
 
-Lots of [web pages](http://archive.ite.journal.informs.org/Vol3No3/ChlondToase/)
-exist explaining the titular "Lady or Tiger" problems
-in the book,
-but [few have bothered to emulate](http://heras-gilsanz.com/manuel/smullyan-machines.html)
-the Monte Carlo Lock, or any of McCulloch's "logic machines".
-
 [Run Smullyan's machines](https://bediger4000.github.io/mcm.html) right now.
 
 ## A Curious Number Machine
