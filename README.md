@@ -12,7 +12,7 @@ in the book,
 but [few have bothered to emulate](http://heras-gilsanz.com/manuel/smullyan-machines.html)
 the Monte Carlo Lock, or any of McCulloch's "logic machines".
 
-![Run Smullyan's machines](https://bediger4000.github.io/mcm.html) right now.
+[Run Smullyan's machines](https://bediger4000.github.io/mcm.html) right now.
 
 ## A Curious Number Machine
 
